@@ -1,0 +1,8 @@
+# Set the default behavior for line endings
+* text=auto
+
+# Explicitly declare files that should use LF on all systems
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+# Add other file types as needed
